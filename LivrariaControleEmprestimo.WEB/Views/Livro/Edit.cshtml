@@ -1,0 +1,69 @@
+﻿@model LivrariaControleEmprestimo.DATA.Models.Livro
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Alterar dados do livro</h1>
+
+<h4>Altere os dados abaixo</h4>
+<hr />
+<div>
+    <a class="btn btn-primary" asp-action="Index"><i class="fas fa-arrow-circle-left"></i> Voltar</a>
+</div>
+<br />
+<div class="row">
+    <div class="col-md">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div hidden class="form-group col-md">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+            </div>
+            <div class="card">
+                <div class="card-header">Informações Livro</div>
+                <div class="card-body row">
+                    <div class="col-md">
+                        <div class="form-group col-md">
+                            <label asp-for="LivroNome" class="control-label"></label>
+                            <input asp-for="LivroNome" class="form-control" />
+                            <span asp-validation-for="LivroNome" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md">
+                            <label asp-for="LivroAutor" class="control-label"></label>
+                            <input asp-for="LivroAutor" class="form-control" />
+                            <span asp-validation-for="LivroAutor" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md">
+                            <label asp-for="LivroEditora" class="control-label"></label>
+                            <input asp-for="LivroEditora" class="form-control" />
+                            <span asp-validation-for="LivroEditora" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md">
+                        <div class="form-group col-md">
+                            <label asp-for="LivroAnoPublicacao" class="control-label"></label>
+                            <input asp-for="LivroAnoPublicacao.Year" class="form-control" />
+                            <span asp-validation-for="LivroAnoPublicacao" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md">
+                            <label asp-for="LivroEdicao" class="control-label"></label>
+                            <input asp-for="LivroEdicao" class="form-control" />
+                            <span asp-validation-for="LivroEdicao" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Alterar" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+}

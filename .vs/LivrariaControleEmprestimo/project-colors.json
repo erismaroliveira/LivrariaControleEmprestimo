@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "68fa40b0-08da-420d-b97f-a98e918d6645": {
+      "ProjectGuid": "68fa40b0-08da-420d-b97f-a98e918d6645",
+      "DisplayName": "LivrariaControleEmprestimo.DATA",
+      "ColorIndex": 0
+    },
+    "6bff5cf5-6447-49b4-947a-88c2dd22a002": {
+      "ProjectGuid": "6bff5cf5-6447-49b4-947a-88c2dd22a002",
+      "DisplayName": "LivrariaControleEmprestimo.WEB",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

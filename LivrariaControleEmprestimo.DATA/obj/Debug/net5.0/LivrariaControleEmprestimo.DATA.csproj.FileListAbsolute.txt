@@ -1,0 +1,12 @@
+C:\Projetos-ASPNET-Core\LivrariaControleEmprestimo\LivrariaControleEmprestimo.DATA\obj\Debug\net5.0\LivrariaControleEmprestimo.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos-ASPNET-Core\LivrariaControleEmprestimo\LivrariaControleEmprestimo.DATA\obj\Debug\net5.0\LivrariaControleEmprestimo.DATA.AssemblyInfoInputs.cache
+C:\Projetos-ASPNET-Core\LivrariaControleEmprestimo\LivrariaControleEmprestimo.DATA\obj\Debug\net5.0\LivrariaControleEmprestimo.DATA.AssemblyInfo.cs
+C:\Projetos-ASPNET-Core\LivrariaControleEmprestimo\LivrariaControleEmprestimo.DATA\obj\Debug\net5.0\LivrariaControleEmprestimo.DATA.csproj.CoreCompileInputs.cache
+C:\Projetos-ASPNET-Core\LivrariaControleEmprestimo\LivrariaControleEmprestimo.DATA\bin\Debug\net5.0\LivrariaControleEmprestimo.DATA.deps.json
+C:\Projetos-ASPNET-Core\LivrariaControleEmprestimo\LivrariaControleEmprestimo.DATA\bin\Debug\net5.0\LivrariaControleEmprestimo.DATA.dll
+C:\Projetos-ASPNET-Core\LivrariaControleEmprestimo\LivrariaControleEmprestimo.DATA\bin\Debug\net5.0\ref\LivrariaControleEmprestimo.DATA.dll
+C:\Projetos-ASPNET-Core\LivrariaControleEmprestimo\LivrariaControleEmprestimo.DATA\bin\Debug\net5.0\LivrariaControleEmprestimo.DATA.pdb
+C:\Projetos-ASPNET-Core\LivrariaControleEmprestimo\LivrariaControleEmprestimo.DATA\obj\Debug\net5.0\LivrariaControleEmprestimo.DATA.dll
+C:\Projetos-ASPNET-Core\LivrariaControleEmprestimo\LivrariaControleEmprestimo.DATA\obj\Debug\net5.0\ref\LivrariaControleEmprestimo.DATA.dll
+C:\Projetos-ASPNET-Core\LivrariaControleEmprestimo\LivrariaControleEmprestimo.DATA\obj\Debug\net5.0\LivrariaControleEmprestimo.DATA.pdb
+C:\Projetos-ASPNET-Core\LivrariaControleEmprestimo\LivrariaControleEmprestimo.DATA\obj\Debug\net5.0\LivrariaControleEmprestimo.DATA.csproj.AssemblyReference.cache
